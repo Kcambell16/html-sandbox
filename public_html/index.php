@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
-		<meta charset="UTF-8">
+		<meta charset="UTF-8"/>
 
 		<!--add CSS file-->
 		<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
@@ -26,12 +26,12 @@
 			<!-- begin section 2 -->
 			<section>
 				<h2>My Favorite Things</h2>
-				<u1>
+				<ul>
 					<li>Food</li>
 					<li>Watching the stars</li>
 					<li>Cupcakes</li>
 					<li>Family</li>
-				</u1>
+				</ul>
 			</section>
 
 			<!-- begin section 3 -->
