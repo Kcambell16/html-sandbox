@@ -5,6 +5,11 @@
 
 		<!--add CSS file-->
 		<link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
+		<style>
+			body{
+				color:orangered;
+			}
+		</style>
 		<title>HTML Sandbox</title>
 	</head>
 	<body>
